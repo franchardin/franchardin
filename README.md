@@ -5,7 +5,7 @@
 <p>:email: <a href="mailto:fchardin@matelab.com.ar">fchardin@matelab.com.ar</a></p>
 <hr>
 <h3>:wrench: Some Tools :wrench:</h3>
-<h4>Frontend:smirk:</h4>
+<h4>Frontend :smirk:</h4>
 <p>:small_blue_diamond:Html5</p>
 <p>:small_orange_diamond:Css</p>
 <p>:small_blue_diamond:Js</p>
