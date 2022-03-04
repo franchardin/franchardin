@@ -1,8 +1,8 @@
 ### Hello world :earth_americas:!
 <p>I'm a <strong>frontend Dev</strong> :computer: from Argentina :argentina:</p>
-<p>I work in <a href="https://matelab.com.ar/en/">Matelab</a>, a cooperative software factory and as a freelancer</p>
+<p>I work in <a href="https://daptee.com.ar/">Daptee</a>, and as a freelancer</p>
 <p>I speak fluent english and love relating with people from everywhere so feel free to get in touch</p>
-<p>:email: <a href="mailto:fchardin@matelab.com.ar">fchardin@matelab.com.ar</a></p>
+<p>:email: <a href="mailto:francisco.chardin@gmail.com">francisco.chardin@gmail.com</a></p>
 <hr>
 <h3>:wrench: Some Tools :wrench:</h3>
 <h4>Frontend :smirk:</h4>
