@@ -1,6 +1,6 @@
 ### Hello world :earth_americas:!
 <p>I'm a <strong>frontend Dev</strong> :computer: from Argentina :argentina:</p>
-<p>I work in <a href="https://daptee.com.ar/">Daptee</a>, and as a freelancer</p>
+<p>Im open to work!</p>
 <p>I speak fluent english and love relating with people from everywhere so feel free to get in touch</p>
 <p>:email: <a href="mailto:francisco.chardin@gmail.com">francisco.chardin@gmail.com</a></p>
 <hr>
