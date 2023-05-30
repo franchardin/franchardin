@@ -16,7 +16,7 @@
 <p>:small_orange_diamond:Vue2 & Vue3</p>
 <p>:small_blue_diamond:Wordpress (basic)</p>
 
-<h4>Backend :skull:</h4>
+<h4>Backend/db :skull:</h4>
 <p>:accept: NodeJs (basic)</p>
 <p>:six_pointed_star: GraphQL</p>
 <p>:elephant: mySQL</p>
