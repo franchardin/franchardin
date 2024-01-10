@@ -4,6 +4,8 @@
 <p>I speak fluent english and love relating with people from everywhere so feel free to get in touch</p>
 <p>:email: <a href="mailto:francisco.chardin@gmail.com">francisco.chardin@gmail.com</a></p>
 <hr>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=franchardin)](https://github.com/anuraghazra/github-readme-stats)
+<hr>
 <h3>:wrench: Some Tools :wrench:</h3>
 <h4>Design :art:</h4>
 <p>:black_nib: Inkscape (open source illustrator alternative)</p>
