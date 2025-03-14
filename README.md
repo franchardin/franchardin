@@ -1,37 +1,39 @@
 ### Hello world :earth_americas:!
-<p>I'm a <strong>frontend Dev</strong> :computer: from Argentina :argentina:</p>
-<p>Im open to work!</p>
-<p>I speak fluent english and love relating with people from everywhere so feel free to get in touch</p>
-<p>:email: <a href="mailto:francisco.chardin@gmail.com">francisco.chardin@gmail.com</a></p>
+<p>I'm a <strong>frontend Dev</strong> 💻 from Argentina 🇦🇷</p>
+<p>I speak fluent english & spanish and love relating with people from everywhere so feel free to get in touch.</p>
+<p>📧: <a href="mailto:fran@camba.coop">fran@camba.coop</a></p>
+<p>I work in <a href="https://camba.coop/en">camba software cooperative</a>, a company with 15 years of experience in education and development. And we're open to work & collaborating with OS projects.</p>
+<p>📧: <a href="mailto:info@camba.coop">info@camba.coop</a></p>
 <hr>
-<h3>:wrench: Some Tools :wrench:</h3>
-<h4>Design :art:</h4>
-<p>:black_nib: Inkscape (open source illustrator alternative)</p>
-<p>:pencil2: Gimp (open source photoshop alternative)</p>
+<h3>🛠️: Some Tools 🛠️:</h3>
+<h4>Design 🎨:</h4>
+<p>✒️ Inkscape (open source illustrator alternative)</p>
+<p>✏️ Gimp (open source photoshop alternative)</p>
+<p>🌐 Blender (open source 3D modeling software) (basic)</p>
 <hr>
-<h4>Frontend :smirk:</h4>
-<p>:small_blue_diamond:Html5</p>
-<p>:small_orange_diamond:Css</p>
-<p>:small_blue_diamond:Js</p>
-<p>:small_orange_diamond:Vue2 & Vue3</p>
-<p>:small_blue_diamond:Wordpress (basic)</p>
+<h4>Frontend 😏:</h4>
+<p>🔹Html5</p>
+<p>🔸Css</p>
+<p>🔹Js</p>
+<p>🔸Vue2 & Vue3</p>
+<p>🔹React</p>
+<p>🔸Wordpress (basic)</p>
 
-<h4>Backend/db :skull:</h4>
-<p>:accept: NodeJs (basic)</p>
-<p>:six_pointed_star: GraphQL</p>
-<p>:elephant: mySQL</p>
+<h4>Backend/db 💀:</h4>
+<p>🍀 NodeJs (basic)</p>
+<p>🔯 GraphQL</p>
+<p>🐘 mySQL</p>
 
-<h4>:wrench:Other tools:hammer:</h4>
-<p>:dog2:Pug</p>
-<p>:recycle:Emmet</p>
-<p>:flamingo: Sass</p>
-<p>:milky_way: Less</p>
+<h4>🪛Other tools🪚:</h4>
+<p>🐕Pug</p>
+<p>♻️Emmet</p>
+<p>🦩 Sass</p>
+<p>🌌 Less</p>
 <hr>
-<h3>:construction: Currently Learning :construction:</h3>
-<p>:atom_symbol: React</p>
-<p>:accept: NodeJs</p>
-<p>:snake: Python</p>
-<p>:pencil: UX</p>
+<h3>🏗️ Currently Learning 🚧:</h3>
+<p>🍀 NodeJs</p>
+<p>🐍 Python</p>
+<p>📝 UX</p>
 
 
 <!--
